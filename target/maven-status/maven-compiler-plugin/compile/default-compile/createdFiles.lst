@@ -1,0 +1,7 @@
+com\admin\servlet\AdminLogin.class
+com\db\DBConnect.class
+com\dao\UserDao.class
+com\user\servlet\UserRegister.class
+com\entity\User.class
+com\admin\servlet\AdminLogout.class
+com\user\servlet\UserLogin.class
